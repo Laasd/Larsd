@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>康文昌的在线HTML 教学小工具</title>
+    <style>  
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+  <div style=
+  "text-align:center"/div>
+  <p>这是我的第1个网站</p>
+  <p>我也没什么好说的
+  <p>在这里我就祝福看到这的人
+  <p>五福临门
+  <p>财源滚滚
+  <p>全家幸福
+  <div>
+  <div style="
+  background-color:#f1f1f1;
+  padding:20px
+  
+  
+  ">
+  <a href="https://laasd.github.io/Larsd/">我的网站</a>
+  <p>不要乱点里面的链接</p>
+  <div>
+  </body>
+</html>
